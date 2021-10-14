@@ -1,0 +1,17 @@
+.container{
+    margin: 0 auto;
+}
+.column {
+    float: left;
+    width: 100%;
+    padding: 0 10px;
+}
+.card {
+    padding: 16px;
+    text-align: center;
+    background-color: rgb(32, 32, 32);
+    margin: 5px;
+    opacity: 1;
+    background-size: cover;
+    background-image: url("https://image.freepik.com/free-photo/hand-painted-watercolor-background-with-sky-clouds-shape_24972-1095.jpg");
+}
